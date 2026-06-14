@@ -1,4 +1,4 @@
-[![Build and Deploy](https://github.com/AleksandrMuzhev/ahj-image-manager-http/frontend/actions/workflows/web.yml/badge.svg)](https://github.com/AleksandrMuzhev/ahj-image-manager-http/frontend/actions/workflows/web.yml)
+[![Build and Deploy](https://github.com/AleksandrMuzhev/ahj-image-manager-http/actions/workflows/web.yml/badge.svg)](https://github.com/AleksandrMuzhev/ahj-image-manager-http/actions/workflows/web.yml)
 
 # Image Manager - Менеджер изображений
 
@@ -79,4 +79,4 @@ Frontend настроен на проксирование запросов к б
 
 # Ссылки
 
-[Frontend GitHub Pages](https://AleksandrMuzhev.github.io/ahj-image-manager-http/frontend/)
+[Frontend GitHub Pages](https://AleksandrMuzhev.github.io/ahj-image-manager-http/)

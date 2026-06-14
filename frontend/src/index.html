@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Manager</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>📷 Менеджер изображений</h1>
+
+        <div class="drop-zone" id="drop-zone">
+            <div class="drop-zone-content">
+                <div class="drop-icon">📸</div>
+                <p>Перетащите изображение сюда</p>
+                <p>или</p>
+                <button id="select-file-btn" class="select-btn">Выбрать файл</button>
+            </div>
+            <input type="file" id="file-input" accept="image/*" multiple style="display: none">
+        </div>
+
+        <div class="gallery" id="gallery">
+            <div class="empty-gallery">Нет изображений. Добавьте первое!</div>
+        </div>
+    </div>
+</body>
+
+</html>

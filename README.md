@@ -1,4 +1,4 @@
-[![Build and Deploy](https://github.com/AleksandrMuzhev/ahj-image-manager/frontend/actions/workflows/web.yml/badge.svg)](https://github.com/AleksandrMuzhev/ahj-image-manager/frontend/actions/workflows/web.yml)
+[![Build and Deploy](https://github.com/AleksandrMuzhev/ahj-image-manager-http/frontend/actions/workflows/web.yml/badge.svg)](https://github.com/AleksandrMuzhev/ahj-image-manager-http/frontend/actions/workflows/web.yml)
 
 # Image Manager - Менеджер изображений
 
@@ -46,7 +46,7 @@ Frontend-часть для управления изображениями с з
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/AleksandrMuzhev/ahj-image-manager.git
+git clone https://github.com/AleksandrMuzhev/ahj-image-manager-http.git
 
 # Запуск бэкенда
 cd ahj-image-manager-backend
@@ -79,4 +79,4 @@ Frontend настроен на проксирование запросов к б
 
 # Ссылки
 
-[Frontend GitHub Pages](https://AleksandrMuzhev.github.io/ahj-image-manager/frontend/)
+[Frontend GitHub Pages](https://AleksandrMuzhev.github.io/ahj-image-manager-http/frontend/)

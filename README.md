@@ -1,4 +1,4 @@
-[![Build and Deploy](https://github.com/AleksandrMuzhev/ahj-image-manager-http/actions/workflows/web.yml/badge.svg)](https://github.com/AleksandrMuzhev/ahj-image-manager-http/actions/workflows/web.yml)
+[![Build and Deploy](https://github.com/AleksandrMuzhev/ahj-image-manager-http/actions/workflows/deploy.yml/badge.svg)](https://github.com/AleksandrMuzhev/ahj-image-manager-http/actions/workflows/deploy.yml)
 
 # Image Manager - Менеджер изображений
 
